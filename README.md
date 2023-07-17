@@ -35,8 +35,19 @@ The insights were visualized using a tree map chart, enabling a clear comparison
 These insights shed light on the impact of road infrastructure, road type, and road conditions on the volume and severity of road accidents in the UK. The visualizations provide stakeholders with valuable information to 
 make informed decisions and take appropriate actions to improve road safety and reduce the risk of accidents.
 
+Dashboard
+
 ![Dashboard](https://github.com/rafayetrafi/RoadAccident-DataAnalysis-Excel/assets/15082614/1d6c275c-ddf4-4d32-b170-926db03988b3)
+
+KPI
+
 ![KPI](https://github.com/rafayetrafi/RoadAccident-DataAnalysis-Excel/assets/15082614/b49e569f-7636-45da-8c7e-a19af50ba76f)
+
+Dataset Snippet
+
 ![Dataset Snippet](https://github.com/rafayetrafi/RoadAccident-DataAnalysis-Excel/assets/15082614/aba506a7-faaf-4785-a32f-0fd57c763a9d)
+
+Data Insights
+
 ![Data Analysis Sheet](https://github.com/rafayetrafi/RoadAccident-DataAnalysis-Excel/assets/15082614/96c0e6e9-03c2-4295-b00a-9d99d35737a8)
 
