@@ -6,7 +6,7 @@ The objective of this project is to analyze UK road accident data and examine th
 ## Dataset
 It is an Excel file that contains 3.07 million rows and 21 data fields
 
-## Insights from the UK Road Accident Data Analysis:
+## Insights from the Road Accident Data Analysis:
 
 1. Primary Key Performance Indicators (KPIs):
 
